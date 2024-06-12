@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const baseurl = 'https://personal-laverne-utsav-3faaa6d6.koyeb.app/'
+export const baseurl = 'https://personal-laverne-utsav-3faaa6d6.koyeb.app'
 
 export const axiosInstance = axios.create({
   baseURL: baseurl
